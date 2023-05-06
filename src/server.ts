@@ -9,5 +9,5 @@ app.get('/', (req, res) => {
 app.listen({
     port: 3000,
 }).then(() => {
-    console.log(`Server listening on port`)
+    console.log(`Servidor Rodando`)
 })
